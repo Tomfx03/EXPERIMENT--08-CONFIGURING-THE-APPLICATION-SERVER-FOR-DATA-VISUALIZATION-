@@ -28,7 +28,10 @@ As the application server market matures, high performance becomes a stronger cr
 
 
 ## OUTPUT 
- 
+ ```
+name:Tom francies xaviour L
+reg no:212223110060
+```
 ![Screenshot 2024-04-24 092309](https://github.com/Tomfx03/EXPERIMENT--08-CONFIGURING-THE-APPLICATION-SERVER-FOR-DATA-VISUALIZATION-/assets/101335832/5b7afdf1-1dfa-47de-be6b-9bfe61f9ff05)
 
 
